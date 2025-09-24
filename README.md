@@ -1,6 +1,6 @@
 ---
 
-# Sorteador de Amigo Secreto
+# Jogo do Amigo Secreto
 
 Este é um projeto simples para realizar o sorteio de um amigo secreto. A aplicação permite que você adicione uma lista de amigos e, em seguida, sorteie aleatoriamente um nome da lista para ser o "amigo secreto".
 
