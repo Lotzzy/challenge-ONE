@@ -1,5 +1,3 @@
-Claro, aqui está um arquivo README.md gerado com base no código fornecido, descrevendo o propósito e o funcionamento do projeto.
-
 ---
 
 # Sorteador de Amigo Secreto
@@ -41,3 +39,4 @@ O projeto é construído com HTML, CSS e JavaScript e é dividido nas seguintes 
 - `sortearAmigo()`: Contém a lógica para sortear aleatoriamente um nome da lista de amigos e exibir o resultado.
 
 Além disso, um `eventListener` é usado para capturar o evento da tecla `Enter` no campo de texto, proporcionando uma melhor experiência de usuário ao adicionar nomes.
+
